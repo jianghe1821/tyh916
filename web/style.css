@@ -1,0 +1,148 @@
+
+header{
+	background-color: rgba(44, 44, 125, 0.777);
+	width: 1000px;
+	height: 120px;
+	margin: 100px;
+	border:solid rgb(0, 0, 0) 2px;
+	padding: 20px;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	font-style:oblique;
+	color: rgb(0, 200, 255);
+
+}
+.a_type{
+	position: relative;
+	color:rgb(0, 170, 255);
+	background-color: rgba(17, 27, 67, 0.791);
+	width: 50px;
+	height: 500px;
+	margin: 20px;
+	border:solid rgb(240, 57, 57) 2px;
+	padding: 20px;
+	text-align: center;
+}
+.ops{
+	width: 800px;
+	height: 500px;
+	margin: 20px;
+	padding: 20px;
+	background-color: rgb(147, 66, 224);
+	border:solid black 2px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	color: rgb(254, 14, 62);
+
+
+}
+div.container1{
+	width:500px;
+	height: 500px;
+	background-color:aliceblue;
+	border:solid black 2px;
+	margin: 100px;
+	padding: 20px;
+
+}
+div.container2{
+	width:300px;
+	height: 1144px;
+	background-color:antiquewhite;
+	border:solid black 2px;
+	position:relative;
+	top:-1288px;
+	left:700px;
+	margin: 100px;
+	padding: 20px;
+
+}
+div.container3{
+	width: 1000px;
+	height: 400px;
+	background-color:rgb(96, 86, 111);
+	border:solid black 2px;
+	position:relative;
+	top:0px;
+	left:0px;
+	margin: 100px;
+	padding: 20px;
+
+}
+div.container4{
+	width: 400px;
+	height: 600px;
+	background-color:rgba(97, 60, 233, 0.565);
+	border:solid black 2px;
+	position:relative;
+	top:0px;
+	left:0px;
+	margin: 100px;
+	padding: 20px;
+}
+div.container5{
+	width: 200px;
+	height: 30px;
+	background-color:rgb(148, 229, 205);
+	color:tomato;
+	border:solid rgb(240, 143, 143) 2px;
+	position:relative;
+	top:0px;
+	left:0px;
+	margin: 100px;
+	padding: 20px;
+	position:relative;left:550px; top:-670px;
+}
+div.container6{
+	width: 400px;
+	height: 100px;
+	background-color:rgb(217, 72, 134);
+	border:solid rgb(255, 0, 0) 5px;
+	position:relative;
+	top:-700px;
+	left:550px;
+	margin: 100px;
+	padding: 20px;
+}
+div.container7{
+	background-color: rgba(193, 247, 245, 0.777);
+	width: 800px;
+	height: 175px;
+	margin: 100px;
+	border:solid rgb(59, 127, 154) 5px;
+	padding: 20px;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	font-style:oblique;
+	color: rgb(3, 4, 8);
+}
+div.container8{width:500px;
+	height: 500px;
+	background-color:rgb(59, 186, 157);
+	border:solid black 2px;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 50px;
+	padding: 20px;
+}
+div.container9{
+	width: 300px;
+	height: 300px;
+	background-color:rgb(144, 92, 92);
+	border:solid black 2px;
+	font-size: 25px;
+	font-weight: bold;
+	margin: 50px;
+	padding: 20px;
+	
+}
+a{
+	color:red;
+	text-decoration: none;
+}
+
+
+
